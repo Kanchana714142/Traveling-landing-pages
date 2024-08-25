@@ -288,6 +288,9 @@ h2 {
     display: flex;
     justify-content: center;
 }
+.button{
+    justify-content: center;
+}
 .img{
     display: flex;
     justify-content: center;
